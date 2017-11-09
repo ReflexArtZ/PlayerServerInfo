@@ -1,13 +1,13 @@
 package de.emeraldmc.playerinfo.commands;
 
-import de.emeraldmc.playerinfo.Main;
-import de.emeraldmc.playerinfo.guis.ServerInfoGUI;
-import de.emeraldmc.playerinfo.utils.ChatAPI;
-import org.bukkit.Bukkit;
-import org.bukkit.command.Command;
-import org.bukkit.command.CommandExecutor;
-import org.bukkit.command.CommandSender;
-import org.bukkit.entity.Player;
+        import de.emeraldmc.playerinfo.Main;
+        import de.emeraldmc.playerinfo.guis.ServerInfoGUI;
+        import de.emeraldmc.playerinfo.utils.ChatAPI;
+        import org.bukkit.Bukkit;
+        import org.bukkit.command.Command;
+        import org.bukkit.command.CommandExecutor;
+        import org.bukkit.command.CommandSender;
+        import org.bukkit.entity.Player;
 
 public class ServerInfoGUICommand implements CommandExecutor {
     @Override
